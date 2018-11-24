@@ -1,0 +1,11 @@
+.review-icons {
+    border: 0;
+    width: 100%;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.review-icons > img {
+    width: 125px;
+    height: 125px;
+}
