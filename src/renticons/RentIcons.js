@@ -32,9 +32,9 @@ export default class RentIcons extends React.Component {
     });
 
     return(
-      <React.Fragment>
+      <Row>
         {icons}
-      </React.Fragment>
+      </Row>
     );
 
   }
